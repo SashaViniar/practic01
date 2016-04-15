@@ -8,9 +8,10 @@
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
+    padding: 15% 32%;
     text-align: center;
-    width: 33%;
     text-decoration: none;
     display: inline-block;
-     font-size: 16px;
+    font-size: 16px;
+    
 }
